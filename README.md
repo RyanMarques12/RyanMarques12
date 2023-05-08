@@ -1,6 +1,6 @@
-- Hi, I’m @RyanMarques12
+- Hi, I’m Ryan Marques
 - I’m interested in sports, spending time with family and friends
-- I’m currently studying business analytics
+- I’m currently studying business analytics and graduating the University of Iowa in May of 2023
 - How to reach me: @Rymarques12@gmail.com
 
 <!---
